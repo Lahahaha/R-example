@@ -1,0 +1,21 @@
+{
+    "farm_id": "",
+    "cow_id": "耳号",
+    "birth_date": "生日",
+    "parity":"胎次",
+    "first_breed_date":"",
+    "last_breed_date":"",
+    "sire_code":"",
+    "breeder":"技术员",
+    "calving_date":"",
+    "breed_age":"",
+    "first_service_rate":"",
+    "breed_interval":"",
+    "service_count":"",
+    "calving_age ":"",
+    "gestation_length":"",
+    "post_calving_interval":"",
+    "calving_interval ":"",
+    "days_open":"",
+    "calf_birth_weight":""
+}

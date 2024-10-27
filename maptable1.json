@@ -1,0 +1,21 @@
+{
+    "farm_id": "当前牧场",
+    "cow_id": "牛号",
+    "birth_date": "",
+    "parity":"事件胎次",
+    "first_breed_date":"",
+    "last_breed_date":"",
+    "sire_code":"配种公牛号",
+    "breeder":"工作人员",
+    "calving_date":"事件日期",
+    "breed_age":"日龄",
+    "first_service_rate":"",
+    "breed_interval":"",
+    "service_count":"",
+    "calving_age ":"",
+    "gestation_length":"",
+    "post_calving_interval":"",
+    "calving_interval ":"",
+    "days_open":"",
+    "calf_birth_weight":"出生重量"
+}
